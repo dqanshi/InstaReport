@@ -30,7 +30,7 @@ No need to install git in linux or termux
 ```bash
 pkg update && pkg upgrade
 pip install python
-git clone https://github.com/Crevils/InstaReport
+git clone https://github.com/dqanshi/InstaReport
 cd InstaReport
 pip install -r requirements.txt
 python ReportBot.py
